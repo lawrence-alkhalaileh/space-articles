@@ -2,15 +2,6 @@
 
 Welcome to **ORBITRA**, the space exploration platform where you can explore the wonders of the cosmos. ORBITRA offers a seamless user experience for space enthusiasts, providing the latest news, insights, and features for space exploration. From the latest space missions to astronomical discoveries, you can stay updated with everything that’s happening in the universe.
 
-## 👨‍💻 About The Team
-
-- **Ramzi Zamil** (Scrum Master)
-- **Ala'a Al-Saadi** (Product Owner)
-- **Lawrence Al-Khalailah** (Quality Assurance)
-- **Belal Kahaleh** (Developer)
-- **Noor Sroor** (Developer)
-- **Rana Salameh** (Developer)
-
 ## 📄 Pages
 
 - **Home Page**
